@@ -1,1 +1,1 @@
-# Data-Scient Anlise exploratória da previsão de renda
+# Data-Scient Análise exploratória da previsão de renda
